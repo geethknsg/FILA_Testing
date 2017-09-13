@@ -10,6 +10,8 @@ import bcccp.tickets.adhoc.AdhocTicket;
  * @author Geeth
  */
 public class AdhocTicket_test {
+ public static void main( String []args){
 
+}
     
 }
