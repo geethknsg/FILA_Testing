@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package bcccp.test;
-
+import bcccp.tickets.adhoc.AdhocTicket;
 /**
  *
  * @author Geeth
